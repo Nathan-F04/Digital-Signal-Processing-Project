@@ -53,7 +53,7 @@ Different filter types applied to the same sample.
 Different filter orders for the same filter type.
 Differences between sampling rates and noise levels.
 
-ample Analysis
+Sample Analysis
 
 Each audio sample was analyzed through time domain plots, spectrograms, and Bode plots, highlighting both the raw and filtered signals. 
 Filters were applied based on the frequency characteristics of specific sounds such as speech, sirens, or bird calls.
