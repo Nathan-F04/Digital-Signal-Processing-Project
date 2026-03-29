@@ -1,6 +1,7 @@
 Digital Signal Processing Project
 Overview
 
+Note: you must download the .wav files and add them to your google drive to run the notebook via colab.
 Link to colab: https://colab.research.google.com/drive/1_RhqAzOkZmZTM8qpDrICauHzm4Ya5eaA?usp=sharing 
 
 This project explores digital signal processing (DSP) techniques applied to real-world audio recordings. 
